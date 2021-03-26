@@ -1,0 +1,27 @@
+table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  h1 {
+    font-size:20px;
+    font-weight:bold;
+    text-transform:capitalize;
+    text-align:left;
+    text-indent:30px;
+   }
+
+   button{
+    font-weight: 400;
+    font-size: 14px;
+    color: #ffffff;
+    background-color: #ffe600;
+    border-radius: 3px;
+  }
+  button:hover{
+    color: #ffe600;
+    background-color: #ffffff;
+  }
