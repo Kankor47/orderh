@@ -5,7 +5,7 @@ import { MatTableDataSource } from '@angular/material/table';
 import { Router } from '@angular/router';
 import { RestService } from 'src/app/api/rest.service';
 
-import { ListaPlatosI } from './ListaPlatos.interface';
+import { ListaPlatosI } from './listaplatos.interface';
 
 @Component({
   selector: 'app-platos',
